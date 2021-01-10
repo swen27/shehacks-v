@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/type";
+@import "../node_modules/bootstrap/scss/buttons";
+@import "../node_modules/bootstrap/scss/root";
+
+--bs-success {
+  background-color: #3a5a40;
+}
+
+@import "bootstrap";
